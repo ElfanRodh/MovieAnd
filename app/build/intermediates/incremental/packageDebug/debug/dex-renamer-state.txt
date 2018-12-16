@@ -1,0 +1,4 @@
+#Sun Dec 16 17:37:59 WIB 2018
+base.0=/media/elfar/RODHIAN/APK/MovieAnd/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/media/elfar/RODHIAN/APK/MovieAnd/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
